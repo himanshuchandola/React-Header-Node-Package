@@ -1,2 +1,4 @@
-# React-Header-Node-Package
-Created my first node package for React which is a Header Package that imports prebuilt header for your React SPA
+# Custom Header Package Created by Himanshu Chandola
+
+You can use this custom header in your React SPA
+
